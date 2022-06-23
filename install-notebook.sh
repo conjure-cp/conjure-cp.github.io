@@ -22,3 +22,5 @@ rm -rf conjure-notebook-executable
 pip --quiet install git+https://github.com/conjure-cp/conjure-notebook.git
 
 conjure --version
+
+@load_ext conjure
