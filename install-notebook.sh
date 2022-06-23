@@ -23,4 +23,4 @@ pip --quiet install git+https://github.com/conjure-cp/conjure-notebook.git
 
 conjure --version
 
-@load_ext conjure
+%load_ext conjure
